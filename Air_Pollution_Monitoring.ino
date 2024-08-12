@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3mGF6XN3P"
-#define BLYNK_TEMPLATE_NAME "rrsk1"
-#define BLYNK_AUTH_TOKEN "8aIymGpRUCKvCdXYuaX1j10Znn_WfALb"
+#define BLYNK_TEMPLATE_ID "<Template - ID>"
+#define BLYNK_TEMPLATE_NAME "<Template - Name>"
+#define BLYNK_AUTH_TOKEN "<Token>"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
